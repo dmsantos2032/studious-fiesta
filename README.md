@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Studious-fiesta
 
 ![Imagem de capa do projeto](link para a imagem/gif) 
 
